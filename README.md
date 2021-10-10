@@ -1,4 +1,4 @@
-### Hi, I’m Brendan
+### Hi, I’m Brendan.
 
 I build deep tech at the intersection of biology, engineering and computer science between San Francisco and Brisbane, Australia.
 
